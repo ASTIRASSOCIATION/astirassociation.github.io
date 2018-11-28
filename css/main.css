@@ -1488,9 +1488,9 @@ header .header-logo a {
  * ------------------------------------------------------------------- */
 @media only screen and (max-width: 768px) {
   header .header-logo a {
-    width: 130px;
+    width: 115px;
     height: 70px;
-    background-size: 150px 100px;
+    background-size: contain;
   }
 }
 @media only screen and (max-width: 400px) {
@@ -1785,13 +1785,13 @@ html[data-useragent*='MSIE 10.0'] .scrolldown,
   max-width: 850px;
 }
 #about span {
-  color: #07617d;
+  color: #cc907a;
 }
 #about h3 {
   font-family: "montserrat-bold", sans-serif;
   font-size: 1.8rem;
   line-height: 1.667;
-  color: #07617d;
+  color: #cc907a;
   text-transform: uppercase;
   letter-spacing: .3rem;
   position: relative;
@@ -2271,7 +2271,7 @@ html[data-useragent*='MSIE 10.0'] .scrolldown,
   font-family: "montserrat-bold", sans-serif;
   font-size: 1.8rem;
   line-height: 1.667;
-  color: #07617d;
+  color: #cc907a;
   text-transform: uppercase;
   letter-spacing: .3rem;
   position: relative;
@@ -2646,7 +2646,7 @@ html[data-useragent*='MSIE 10.0'] .scrolldown,
   line-height: 6rem;
   padding: 0 3rem;
   width: 100%;
-  background: #f9a828;
+  background: #cc907a;
   color: #000000;
   margin-top: .6rem;
 }
@@ -2866,7 +2866,7 @@ footer h4.h05::after {
   background-color: rgba(0, 0, 0, 0.9);
 }
 .footer-main #mc-form button {
-  background-color: #f9a828;
+  background-color: #cc907a;
   color: #000000;
   width: 6rem;
   height: 6rem;
@@ -2878,7 +2878,7 @@ footer h4.h05::after {
   top: 0;
 }
 .footer-main #mc-form button:hover {
-  background-color: #f89e0f;
+  background-color: #cc907a;
 }
 .footer-main #mc-form button i {
   font-size: 2.6rem;
