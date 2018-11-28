@@ -1260,10 +1260,9 @@ header .header-logo a {
   padding: 0;
   outline: 0;
   border: none;
-  width: 57px;
-  height: 27px;
+  width: 200px;
+  height: 150px;
   background: url("../images/astir-association-logo.png") no-repeat center;
-  background-size: 57px 27px;
   font: 0/0 a;
   text-shadow: none;
   color: transparent;
